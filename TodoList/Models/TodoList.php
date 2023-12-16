@@ -1,1 +1,2 @@
 <?php
+$todoList = array();

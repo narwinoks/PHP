@@ -1,0 +1,2 @@
+<?php
+//magic function

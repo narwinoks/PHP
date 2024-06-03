@@ -1,6 +1,6 @@
 rrrr
 FFF
-fffrr
+fffrrfff
 ffff
 RRR
 RRR

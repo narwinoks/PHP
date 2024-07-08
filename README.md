@@ -22,6 +22,7 @@ rrr
 rrr
 gajah
 rrr
+burung
 rrr
 rrr
 rrr

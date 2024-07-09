@@ -1,11 +1,3 @@
-rrrr
-FFF
-fffrrfff
-ffff
-RRR
-RRR
-rrr
-rrr
 rrr
 rrrr
 rrr

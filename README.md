@@ -12,6 +12,7 @@ rr
 rrr
 rrr
 rrr
+ok
 gajah
 rrr
 burung
